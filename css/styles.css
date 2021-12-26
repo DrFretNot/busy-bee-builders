@@ -1,0 +1,44 @@
+body{
+	font-family: 'Exo', sans-serif;
+		background-color: #94BB8B;
+}
+
+h1{
+	font-family: 'Exo', sans-serif;
+	font-weight: bolder;
+	background-color: #FFFFC9;
+	text-align: center;
+	
+}
+/* font-family: 'Exo', sans-serif; */
+/*font-family: 'Playfair Display', serif;*/
+
+.logo-navbar-size{
+	max-height: 64px;
+}
+.brand-font{
+	font-family: 'Exo', sans-serif;
+	font-weight: bolder;
+}
+
+
+.navbar-bg-custom {
+	 background-image: url('/images/navbar-image-rect.png');
+	 /*@include img-fluid;*/
+	background-color: #E9E4D9;
+}
+
+
+.text-box-styling{
+	
+		background-color: #FFFFC9;
+		/*padding: 5px;*/
+		margin-top: 5px;
+		margin-bottom: 5px;
+}
+
+.image-rounded{
+	border-radius:25px;
+
+	
+}
