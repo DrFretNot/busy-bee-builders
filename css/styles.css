@@ -23,9 +23,10 @@ h1{
 
 
 .navbar-bg-custom {
+	/*background-image: url('/images/navbar-image.png');*/
 	 background-image: url('/images/navbar-image-rect.png');
 	 /*@include img-fluid;*/
-	background-color: #E9E4D9;
+	/*background-color: #E9E4D9;*/
 }
 
 
@@ -37,8 +38,11 @@ h1{
 		margin-bottom: 5px;
 }
 
-.image-rounded{
-	border-radius:25px;
 
+
+.image-rounded{
+
+	border-radius:25px;
+	max-height: 600px;
 	
 }

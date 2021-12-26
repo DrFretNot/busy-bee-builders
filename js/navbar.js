@@ -19,13 +19,13 @@ class NavbarComponent extends HTMLElement {
 								<a class="nav-link active" aria-current="page" href="/index.html">Home Page</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link disabled" href="#" aria-disabled="true">Buy/Sell Homes</a>
+								<a class="nav-link active" aria-current="page" href="/buyhome.html" >Buy Home</a>
 							</li>
 							<li class="nav-item">
-							<a class="nav-link disabled" href="#" aria-disabled="true">Storage Rentals</a>
+							<a class="nav-link active" aria-current="page" href="/rentstorage.html" >Storage Rentals</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link disabled" href="#" aria-disabled="true">Rental Homes</a>
+								<a class="nav-link active" aria-current="page" href="/renthome.html" >Rental Homes</a>
 							</li>
 							
 						</ul>
