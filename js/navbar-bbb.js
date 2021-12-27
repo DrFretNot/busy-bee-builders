@@ -16,16 +16,16 @@ class NavbarComponentBBB extends HTMLElement {
 					<div class="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul class="navbar-nav me-auto mb-2 mb-lg-0">
 							<li class="nav-item">
-								<a class="nav-link active" aria-current="page" href="/index.html">Home Page</a>
+								<a class="nav-link active" aria-current="page" href="index.html">Home Page</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link active" aria-current="page" href="/buyhome.html" >Buy Home</a>
+								<a class="nav-link active" aria-current="page" href="buyhome.html" >Buy Home</a>
 							</li>
 							<li class="nav-item">
-							<a class="nav-link active" aria-current="page" href="/rentstorage.html" >Storage Rentals</a>
+							<a class="nav-link active" aria-current="page" href="rentstorage.html" >Storage Rentals</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link active" aria-current="page" href="/renthome.html" >Rental Homes</a>
+								<a class="nav-link active" aria-current="page" href="renthome.html" >Rental Homes</a>
 							</li>
 							
 						</ul>
