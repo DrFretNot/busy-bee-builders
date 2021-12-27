@@ -8,7 +8,7 @@ class NavbarComponentBBB extends HTMLElement {
 <nav class="navbar navbar-expand-lg navbar-light navbar-bg-custom">
 				<div class="container-fluid">
 					<a class="navbar-brand brand-font" href="index.html">
-						<img alt="Brand" src="../images/logo-256.png" class="img-fluid logo-navbar-size"> Busy Bee Builders
+						<img alt="Brand" src="images/logo-256.png" class="img-fluid logo-navbar-size"> Busy Bee Builders
 					</a>
 					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
