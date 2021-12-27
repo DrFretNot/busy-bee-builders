@@ -47,3 +47,21 @@ h1{
 	max-height: 600px;
 	
 }
+
+.image-circle{
+
+	border-radius:300px;
+	max-height: 600px;
+
+}
+
+
+.subtle-link{
+	color: #000000;
+	text-decoration: none;
+}
+
+.subtle-link:hover {
+	color: #F2D249;
+	text-decoration: underline;
+}
