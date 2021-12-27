@@ -1,4 +1,4 @@
-class NavbarComponent extends HTMLElement {
+class NavbarComponentBBB extends HTMLElement {
 	constructor(){
 		super();
 	}
@@ -38,5 +38,5 @@ class NavbarComponent extends HTMLElement {
 	}
 	
 }
-customElements.define('navbar-component', NavbarComponent);
-//<navbar-component></navbar-component>
+customElements.define('navbar-component-bbb', NavbarComponentBBB);
+//<navbar-component-bbb></navbar-component-bbb>
