@@ -47,6 +47,8 @@ You can modify the photos and videos from Pexels. Be creative and edit them as y
 		
 		
 Useful Sites:
+	https://tinypng.com/
+	https://fonts.google.com/
 	https://www.pexels.com/
 	https://www.embedgooglemap.net/
 	
