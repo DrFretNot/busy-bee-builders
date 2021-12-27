@@ -24,7 +24,7 @@ h1{
 
 .navbar-bg-custom {
 	/*background-image: url('/images/navbar-image.png');*/
-	background-image: url('/images/navbar-image-rect.png'), url('images/navbar-image-rect.png');
+	background-image:  url('../images/navbar-image-rect.png');
 	/*background-image: url('images/navbar-image-rect.png');*/
 	 /*@include img-fluid;*/
 	/*background-color: #E9E4D9;*/
