@@ -16,6 +16,10 @@ h1{
 .logo-navbar-size{
 	max-height: 64px;
 }
+
+.phone-icon{
+	max-height: 32px;
+}
 .brand-font{
 	font-family: 'Exo', sans-serif;
 	font-weight: bolder;
@@ -39,6 +43,10 @@ h1{
 		margin-bottom: 5px;
 }
 
+.vertical-spacer-10{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
 
 
 .image-rounded{
@@ -63,5 +71,19 @@ h1{
 
 .subtle-link:hover {
 	color: #F2D249;
+	text-decoration: underline;
+}
+
+.phone-link{
+color: #000000;
+background-color: #F2D249;
+	text-decoration: none;
+
+
+}
+
+.phone-link:hover {
+	color: #F2D249;
+	background-color: #000000;
 	text-decoration: underline;
 }

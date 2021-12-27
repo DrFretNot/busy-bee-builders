@@ -9,6 +9,9 @@ class NavbarComponentBBB extends HTMLElement {
 				<div class="container-fluid">
 					<a class="navbar-brand brand-font" href="index.html">
 						<img alt="Brand" src="images/logo-256.png" class="img-fluid logo-navbar-size"> Busy Bee Builders
+						<a href="tel:555-555-5555" class="phone-link"> 
+						<img src="images/phone-icon.png" class="img-fluid phone-icon" alt="phone icon">
+						(555) 555-5555</a>
 					</a>
 					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
