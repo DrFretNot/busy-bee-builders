@@ -1,7 +1,7 @@
 body{
 	font-family: 'Exo', sans-serif;
-		background-color: #94BB8B;
-		/*background-image: url('../images/Builder_Bee.gif');*/
+	background-color: #94BB8B;
+	/*background-image: url('../images/Builder_Bee.gif');*/
 }
 
 h1{
@@ -31,17 +31,17 @@ h1{
 	/*background-image: url('/images/navbar-image.png');*/
 	background-image:  url('../images/navbar-image-rect.png');
 	/*background-image: url('images/navbar-image-rect.png');*/
-	 /*@include img-fluid;*/
+	/*@include img-fluid;*/
 	/*background-color: #E9E4D9;*/
 }
 
 
 .text-box-styling{
 	
-		background-color: #FFFFC9;
-		/*padding: 5px;*/
-		margin-top: 5px;
-		margin-bottom: 5px;
+	background-color: #FFFFC9;
+	/*padding: 5px;*/
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .vertical-spacer-10{
@@ -51,17 +51,17 @@ h1{
 
 
 .image-rounded{
-
+	
 	border-radius:25px;
 	max-height: 600px;
 	
 }
 
 .image-circle{
-
+	
 	border-radius:300px;
 	max-height: 600px;
-
+	
 }
 
 
@@ -76,11 +76,11 @@ h1{
 }
 
 .phone-link{
-color: #000000;
-background-color: #F2D249;
+	color: #000000;
+	background-color: #F2D249;
 	text-decoration: none;
-
-
+	
+	
 }
 
 .phone-link:hover {
